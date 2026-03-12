@@ -10,6 +10,7 @@ func values() {
 	fmt.Println(!true)
 	fmt.Println(7 / 3)
 	fmt.Println(7.0 / 3.0)
+	fmt.Println(7 % 3)
 }
 
 // func main() {
